@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.topTitle{
+  text-align: center;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    width: 4rem !important; 
+    height: 4rem !important; 
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 70vh !important;
+    height: 1vh !important;
+}
+
+.carousel-indicators {
+  bottom: 69vh !important;
+}
+
+.carousel-caption {
+  top: 50% !important;
+  transform: translateY(-90%) !important;
+  bottom: initial !important;
+}
+
+.text-center {
+  display: flex;
+  width: 100px !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.issiQA{
+  justify-content: space-between;
+  margin-right: 0px !important;
+}
+
+.redFill{
+  background-color: #cc0000 !important;
+}
+
+.redOutline{
+  border-color: #cc0000 !important;
+}
+
+

@@ -1,0 +1,113 @@
+.css-lntp72-MuiButtonBase-root-MuiFab-root{
+    border-radius: 8px !important;
+    right: 3vw !important;
+    position: fixed !important;
+    font-weight: 700 !important;
+    bottom: 12vmax;
+    color: rgb(250, 250, 250) !important;
+    background-color: #212529 !important;
+}
+
+#plus{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+
+#invite-button{
+    background-color: #fc5e5e;
+    border-color: white;
+    color: white;
+}
+
+#button{
+    background-color: white !important;
+    border-radius: 0px !important;
+}
+
+#xButton{
+    width: 40px;
+    height: 40px;
+}
+
+.btn-light{
+    background-color: #d6d4d4 !important;
+}
+
+.btn-check:checked+.btn{
+    background-color: #cc0000 !important;
+    color: white;
+    border-color: white;
+}
+
+.btn-check:not(:checked)+.btn{
+    background-color: #fc5e5e !important;
+    color: rgb(255, 255, 255);
+    border-color: white;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+#column{
+    padding-top: 5px;
+}
+
+.fullWidth{
+   width: 100%;
+}
+
+.badger{
+ background-color: #cc3d3d !important;
+}
+
+.vstack{
+    display: contents !important;
+}
+
+.rowPad{
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.topText{
+    font-size: 40px !important;
+    align-items: center !important;
+    align-self: center !important;
+    text-align: center !important;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    border-bottom: black;
+    height: 4rem !important;
+}
+
+
+.shrinker{
+    margin: 0.2rem !important;
+    padding-right: 4rem !important;
+}
+
+.modal-body{
+    padding-top: 0rem !important;
+}
+
+.blue{
+    background-color: #583ef4 !important;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.avatarText{
+    padding-top: .5rem;
+}

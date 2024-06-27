@@ -1,0 +1,32 @@
+.navIcon{
+    width: 2em;
+    height: 2em;
+    color: white;
+    transform:  scale(-1,1);
+}
+
+#background{
+    border-radius: 5px;
+    height: 100%;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-width: 5px !important;
+}
+
+a.sc-gsTDqH.bgxRHz{
+    border-radius: 4px;
+}
+
+a.sc-gsTDqH.bgxRHz.active {
+    background-color: #cc0000 !important;
+    background: #cc0000!important;
+    color: #cc0000 !important;
+    box-shadow:  
+    inset -.01em -.01em .1em #000000,
+    inset .01em .01em .1em #000000 !important; 
+    transition: box-shadow 0.5s ease-in-out;
+}
+
+.css-dlwkee-MuiBadge-badge{
+    background-color: #583ef4;
+}

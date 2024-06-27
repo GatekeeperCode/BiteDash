@@ -1,0 +1,189 @@
+#friends-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+hr{
+opacity: 1 !important;
+}
+
+#topLine{
+    margin: .5rem 0rem 4rem  !important;
+}
+
+#hallLine{
+    margin: 1rem 0  !important;
+}
+
+.dateTime>*{
+    width: 100% !important;
+}
+
+.dateTime{
+    align-items: center !important;
+    justify-content: center !important;
+    margin-bottom: 1rem !important;
+}
+
+/* utterly unreusable styling */
+.css-d0vs79-MuiClockPointer-root {
+    background-color: #cc0000 !important;
+}
+
+.css-rdq5h4-MuiClockPointer-root {
+    background-color: #cc0000 !important;
+}
+
+.css-umzx0k-MuiClock-pin {
+    background-color: #cc0000 !important;
+}
+
+.css-12t0dn4-MuiClockPointer-thumb{
+    background-color: #cc0000 !important;
+    border-color: #cc0000 !important;
+}
+
+.css-eg3pzz-MuiClockPointer-thumb{
+    background-color: #cc0000 !important;
+    border-color: #cc0000 !important;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: #cc0000 !important;
+}
+
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root.Mui-selected:hover{
+    will-change: background-color !important;
+    background-color: #cc0000 !important;
+}
+
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+    background-color: #cc0000 !important;
+}
+
+.css-jgls56-MuiButtonBase-root-MuiPickersDay-root.Mui-selected{
+    background-color: #cc0000 !important;
+}
+
+.css-innj4t-MuiPickersYear-yearButton.Mui-selected:focus, .css-innj4t-MuiPickersYear-yearButton.Mui-selected:hover {
+    background-color: #cc0000 !important;
+}
+
+/************************************/
+
+.create>*{
+    width: 70% !important;
+    margin-top: 3rem;
+}
+
+.create{
+    display: flex !important;
+    justify-content: center !important;
+    padding-bottom: 8rem;
+}
+
+.stayAtTop{
+    position: sticky;
+    top: 0;
+    z-index: 12;
+    background-color:rgba(253, 253, 253, 0.874);
+}
+
+.titleText{
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex;
+}
+
+.MuiSnackbar-root {
+    bottom: 6rem !important;
+  }
+
+.extender{
+    padding-bottom: 6rem !important;
+}
+
+.css-dlwkee-MuiBadge-badge{
+    background-color: #583ef4;
+    color: white;
+}
+
+.emptyRedButton{
+    background-color: white;
+    color: #cc0000;
+}
+
+.emptyRedButton:hover{
+    background-color: rgb(187, 1, 1);
+    color: white;
+    border-color: rgb(187, 1, 1);
+}
+
+.emptyRedButton:not(:disabled):not(:disabled):active  {
+    background-color: rgb(174, 4, 4);
+    color: white;
+    border-color: rgb(174, 4, 4);
+}
+
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+    color:#cc0000 !important;
+}
+
+.Mui-focused{
+    border-color: #cc0000 !important;
+    color: #cc0000 !important;
+}
+
+.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: #cc0000 !important;
+}
+
+.entryBoxStyle{
+    border-color: #cc0000 !important;
+    border-radius: 4px !important;
+    height: 3.5rem !important;
+}
+
+.option{
+    height: 5rem !important;
+}
+option:focus {
+    background-color: #cc0000 !important;
+}
+option:checked{
+    background-color: #cc0000 !important;
+    color: white;
+}
+
+.formBoxes{
+    width: 100% !important;
+}
+
+.MuiFormControl-root.css-1nrlq1o-MuiFormControl-root{
+    width: 100%;
+}
+
+
+.bottomExt{
+    padding-bottom: 12rem;
+}
+
+.aligner{
+    text-align: center;
+    font-size: larger;
+}
+
+
+@media (min-width: 600px) {
+    .padder{
+        padding-bottom: 10rem !important;
+    }
+}
+
+.results-scrollable{
+    overflow-y: scroll;
+    padding-bottom: 100px;
+}
+

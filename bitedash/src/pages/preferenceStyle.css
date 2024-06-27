@@ -1,0 +1,69 @@
+#topLinePref{
+  margin: .5rem 0rem 2rem  !important;
+}
+
+.stayAtTop{
+  position: sticky;
+  top: 0;
+  z-index: 12;
+  background-color:rgba(253, 253, 253, 0.874);
+}
+
+.emailCont{
+  background-color: rgb(226, 226, 226);
+  border-radius: 10px;
+  margin-bottom: .5rem;
+  margin-top: .5rem;
+}
+
+#emailLinePref{
+  margin: .2rem 0rem 0rem  !important;
+}
+
+#phone{
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#phoneLabel{
+  width: 100%;
+  height: 3rem;
+}
+
+.notifOption{
+  justify-content: space-evenly;
+  /* width: 100%; */
+}
+
+.radioSizer{
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}
+
+.dropdownPref{
+  border-radius: 6px;
+  width: 100%;
+  height: 3rem;
+  font-size: 24px;
+}
+
+.saveButton{
+  background-color: black;
+  border: black;
+}
+
+
+.form-check-input:checked{
+  background-color: #cc0000 !important;
+  border-color: #cc0000 !important;
+  color: #cc0000 !important;
+}
+
+.prefBoxStyle{
+  border-radius: 4px !important;
+  height: 3.5rem !important;
+}

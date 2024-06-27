@@ -1,0 +1,61 @@
+.btn-custom-down {
+    color: rgb(255, 99, 99) !important;
+    border-color: rgb(255, 99, 99) !important;
+    background-color: transparent !important;
+  }
+  
+  .btn-custom-down:hover,
+  .btn-custom-down:active,
+  .btn-custom-down:active:focus {
+    background-color: rgb(255, 99, 99) !important;
+    color: white !important;
+    border-color: rgb(255, 99, 99) !important;
+    box-shadow: none !important;
+  }
+
+  .btn-up-voted{
+    background-color: rgb(68, 187, 68) !important;
+    color: white !important;
+    border-color: rgb(68, 187, 68) !important;
+    box-shadow: none !important;
+  }
+  
+  .btn-custom-up {
+    color: rgb(68, 187, 68) !important;
+    border-color: rgb(68, 187, 68) !important;
+    background-color: transparent !important;
+  }
+  
+  .btn-custom-up:hover,
+  .btn-custom-up:active,
+  .btn-custom-up:active:focus {
+    background-color: rgb(68, 187, 68) !important;
+    color: white !important;
+    border-color: rgb(68, 187, 68) !important;
+    box-shadow: none !important;
+  }
+
+  .btn-down-voted{
+    background-color: rgb(255, 99, 99) !important;
+    color: white !important;
+    border-color: rgb(255, 99, 99) !important;
+    box-shadow: none !important;
+  }
+
+  .menuCard{
+    margin-right: 1rem !important;
+    margin-left: 1rem !important;
+    background-color: #ffe8e8 !important;
+  }
+
+  .menuCardText{
+    color: #cc0000;
+  }
+
+  .gray{
+    background-color: #7c7979 !important;
+  }
+
+  .bg-info{
+    background-color: #7c7979 !important;
+  }
